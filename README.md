@@ -180,5 +180,5 @@ For issues or questions:
 
 ---
 
-**Last Updated**: June 2026  
-**Repository Status**: Active Learning Project
+**Last Updated**: June 2024  
+**Repository Status**: Deprecated
